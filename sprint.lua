@@ -15,8 +15,8 @@ local Button = script.Parent
 local Camera = Workspace.Camera
  
 local Active = false
-local SprintSpeed = 20
-local WalkSpeed = 13
+local SprintSpeed = 20 -- The Speed of the Player When Sprinting
+local WalkSpeed = 13 -- The Speed of the Player When Walking
  
 local SprintFOV = 85
 local WalkFOV = 70
